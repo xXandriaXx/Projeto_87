@@ -11,7 +11,7 @@ ctx= canvas.getContext("2d");
 ctx.beginPath();
 ctx.strokeStyle = "grey";
 ctx.lineWidth = 1;
-ctx.rect(150, 143, 430, 200);
+ctx.rect(165, 163, 430, 200);
 ctx.stroke();
 
 /*
